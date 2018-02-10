@@ -2,7 +2,7 @@
 my stm32f103 library
 
 include 
-- UART  
+- + UART  
   + IIC  SPI  
   + Timer  
   + systick 
@@ -13,7 +13,7 @@ include
   + pvd  
   + pwr 
   + rtc
-- mpu6050(dmp) 
+- + mpu6050(dmp) 
   + ov7725 
   + ad9834 
   + ad5667 
